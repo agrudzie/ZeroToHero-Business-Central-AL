@@ -194,6 +194,16 @@ If this course is helping you, please consider subscribing to support more free 
 <iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/UnFYQMgw4oU" title="Class 37" frameborder="0" allowfullscreen></iframe>
 </details>
 
+<details>
+<summary><a href="https://youtu.be/1P9BKhqvEWA">38. [Zero To Hero]: How to use Postman and Mockoon for creating and Testing API's in Business Central</a></summary>
+<iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/1P9BKhqvEWA" title="Class 38" frameborder="0" allowfullscreen></iframe>
+</details>
+
+<details>
+<summary><a href="https://youtu.be/hHO_S3DC2vQ">39. [Zero To Hero]: JSON, HTTP Client, HTTPRequestMessage, HTTPResponseMessage, HTTPHeaders, HTTPContent</a></summary>
+<iframe width="100%" height="480" src="https://www.youtube-nocookie.com/embed/hHO_S3DC2vQ" title="Class 39" frameborder="0" allowfullscreen></iframe>
+</details>
+
 </details>
 
 <details markdown="1">
